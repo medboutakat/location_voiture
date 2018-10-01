@@ -1,0 +1,16 @@
+{
+  "name": "location_voiture",
+  "scripts": {
+  },
+  "env": {
+    "DISABLE_COLLECTSTATIC": "1"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
